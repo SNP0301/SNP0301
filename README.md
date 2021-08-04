@@ -8,4 +8,5 @@
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2020~) <br>
 ### ⌨️ 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snp0301?username=snp0301&count_private=true)](https://github.com/snp0301/github-readme-stats)
+![SNP0301's GitHub stats](https://github-readme-stats.vercel.app/api?username=snp0301&count_private=true)
+
