@@ -4,6 +4,7 @@
  
 </div>
 
-# 🖋 I am studying <br>
- *Business* & *Software* in [SKKU](https://www.skku.edu/eng/)<br>
+### 🖋 *Business* in [SKKU] (2017~(https://www.skku.edu/eng/) <br>
+### 🖋 *Software* in [SKKU] (2020~)(https://www.skku.edu/eng/ <br>
+### ⌨️ 
  
