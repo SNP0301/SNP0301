@@ -12,7 +12,10 @@
 
 
 <div align = center>
- https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 
+ 
+ https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen 
+ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 
+ 
 </div>
 <!---![SNP0301's GitHub stats](https://github-readme-stats.vercel.app/api?username=snp0301&count_private=true&show_icons=true&show_icons=true&theme=dark) <br>
 --->
