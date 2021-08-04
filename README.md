@@ -13,8 +13,8 @@
 
 <div align = center>
  
- ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen )
- ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )
+ deep : ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen )
+ dip : ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )
 
  
 </div>
