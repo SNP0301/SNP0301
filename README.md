@@ -13,8 +13,8 @@
 
 <div align = center>
  
- deep : ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen )
- dip : ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )
+ deep : ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen )  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )  <br>
+ dip :![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 
  
 </div>
