@@ -10,14 +10,15 @@
 ### 🖋 *Business* in [SKKU](https://www.skku.edu/eng/) (2017~) <br>
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2020~) <br>
 
-
+<!---
 <div align = center>
- 
+
  deep : ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen )  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )  <br>
  dip :![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 
- 
 </div>
+--->
+
 <!---![SNP0301's GitHub stats](https://github-readme-stats.vercel.app/api?username=snp0301&count_private=true&show_icons=true&show_icons=true&theme=dark) <br>
 --->
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snp0301)](https://github.com/snp0301/github-readme-stats)
