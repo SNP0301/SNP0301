@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Constantly%20Constructing&fontSize=50&animation=fadeIn)
 
 
-<div align="right">
+<!---div align="right">
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSNP0301&count_bg=%2339D59D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hit+with&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
+--->
 
 <div align = "center">
               
 # 옳은 길로 바르게
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSNP0301&count_bg=%2339D59D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hit+with&edge_flat=false)](https://hits.seeyoufarm.com)
               
 </div>
               
@@ -32,4 +34,5 @@
 --->
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<!---![footer](https://capsule-render.vercel.app/api?section=footer)
+--->
