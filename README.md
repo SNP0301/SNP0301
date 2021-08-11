@@ -7,9 +7,9 @@
  
 </div>
 
-<div align = "center>
+<div align = "center">
               
-              # 옳은 길로 바르게
+# 옳은 길로 바르게
               
 </div>
               
