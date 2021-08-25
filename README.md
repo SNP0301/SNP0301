@@ -15,7 +15,7 @@
 ### 🖋 *Business* in [SKKU](https://www.skku.edu/eng/) (2017~) <br>
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2021~) <br>
 ### 🏠 Seoul, South Korea
-
+### wanna go
 <!---
 <div align = center>
 
