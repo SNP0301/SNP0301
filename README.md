@@ -14,6 +14,7 @@
               
 ### 🖋 *Business* in [SKKU](https://www.skku.edu/eng/) (2017~) <br>
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2021~) <br>
+#### *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits*
 ### 🏠 Seoul, South Korea <br>
 
 <!---
