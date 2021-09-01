@@ -18,7 +18,7 @@
 
 ####   *2021 Spring : Problem Solving, Logical Devices(VHDL), System Program, Data Structure* <br>
 ####   *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits* <br>
-####   *2021 Fall side curriculum : Machine Learning(Coursera), Mathematics for Machine Learning(Coursera) <br>
+####   *2021 Fall side curriculum : Machine Learning(Coursera), Mathematics for Machine Learning(Coursera)* <br>
 
 ### 🏠 Seoul, South Korea <br>
 
