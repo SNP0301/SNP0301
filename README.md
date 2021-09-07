@@ -22,7 +22,7 @@
 
 ### 🏠 Seoul, South Korea <br>
 
-### [Github Blog](https://snp0301.github.io/) <br>
+
 <!---
 <div align = center>
 
