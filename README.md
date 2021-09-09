@@ -2,8 +2,8 @@
 
 <div align = "center">
               
-# *옳은 길로 바르게* <br>
-# *by execution* <br>
+## *옳은 길로 바르게* <br>
+### *by execution* <br>
               
 </div>
 
