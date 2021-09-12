@@ -3,7 +3,6 @@
 <div align = "center">
               
 ## *옳은 길로 바르게* <br>
-### *'By Execution'* <br>
               
 </div>
 
