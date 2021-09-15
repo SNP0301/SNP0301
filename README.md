@@ -12,7 +12,7 @@
  
 </div>
               
-### 🖋 *Business* in [SKKU](https://www.skku.edu/eng/) (2017~) <br>
+### 🖋 *Business* in [SKKU](https://www.skku.edu/eng/) (2017~2020) <br>
 
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2021~) <br>
 
