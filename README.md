@@ -21,6 +21,9 @@
 ### 🏠 Seoul, South Korea <br>
 
 
+### BOJ Self Study (2021.12.13~ <br>
+
+
 <!---
 <div align = center>
 
