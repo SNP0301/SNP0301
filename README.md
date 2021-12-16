@@ -19,11 +19,6 @@
 ####   *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits* <br>
 
 ### 🏠 Seoul, South Korea <br>
-
-
-### BOJ Self Study (2021.12.13~ <br>
-
-
 <!---
 <div align = center>
 
