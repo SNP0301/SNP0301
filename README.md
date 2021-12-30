@@ -21,11 +21,3 @@
 ### 🏠 Seoul, South Korea <br>
 
 
-<!---![SNP0301's GitHub stats](https://github-readme-stats.vercel.app/api?username=snp0301&count_private=true&show_icons=true&show_icons=true&theme=dark) <br>
---->
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snp0301)](https://github.com/snp0301/github-readme-stats)
---->
-
-
-<!---![footer](https://capsule-render.vercel.app/api?section=footer)
---->
