@@ -18,6 +18,4 @@
 ####   *2021 Spring : Problem Solving, Logical Devices(VHDL), System Program, Data Structure* <br>
 ####   *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits* <br>
 
-### 🏠 Seoul, South Korea <br>
-
 
