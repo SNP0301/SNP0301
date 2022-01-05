@@ -16,6 +16,6 @@
 ### 🖋 *Software* in [SKKU](https://www.skku.edu/eng/) (2021~) <br>
 
 ####   *2021 Spring : Problem Solving, Logical Devices(VHDL), System Program, Data Structure* <br>
-####   *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits* <br>
+####   *2021 Fall : Computer Architecture, Database, Algorithm, Operation System, Logic Circuits*  <br>
 
 
