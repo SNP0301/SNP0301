@@ -10,7 +10,7 @@
 - **Email**  : studiosnp0301@gmail.com
 - Studying **Business Administration**  and **Software** in [SKKU](https://www.skku.edu/eng/)
 -----
-#Remodeling... (2022/01/12 ~ )
+# Remodeling... (2022/01/12 ~ )
 
 -----
 ### My projects
