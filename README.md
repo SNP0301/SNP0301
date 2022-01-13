@@ -16,5 +16,5 @@
 ### My projects
 |What I asked about|Project Name|What I actually did|What I used|Link|
 |-|-|-|-|-|
-|How does VHDL work<br>in circuit|VHDL Design<br>(Mar 2020 ~<br>Jun 2020)|Designed simulator code on VHDL<br> - Basic logic circuit<br>- Multiplexer, Flip-Flop<br>- Digital Clock<br>- LCD Panel<br>- Arithmetic Calculator|
+|How does VHDL work<br>in circuit|VHDL Design<br>(Mar 2021 ~<br>Jun 2021)|Designed simulator code on VHDL<br> - Basic logic circuit<br>- Multiplexer, Flip-Flop<br>- Digital Clock<br>- LCD Panel<br>- Arithmetic Calculator|
 |Does algorithm trading can <br>save my asset?|Bit the risk<br>(Jan 2022 ~<br>|Built trading algorithm using open API|
