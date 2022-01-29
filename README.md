@@ -9,10 +9,8 @@
 - **Blog**  : [My Github Blog](https://snp0301.github.io/)
 - **Email**  : studiosnp0301@gmail.com
 - Studying **Business Administration**  and **Software** in [SKKU](https://www.skku.edu/eng/)
------
-# Remodeling... (2022/01/12 ~ )
 
------
+--------------
 
 ### My projects
 |What I asked about|Project Name|What I actually did|What I used|Link|
