@@ -5,6 +5,7 @@
  
 </div>
 
+1 commit without edit in this md = 'Today I studied sth but it is not sufficient for whole post'
 
 - **Blog**  : [My Github Blog](https://snp0301.github.io/)
 - **Email**  : studiosnp0301@gmail.com
