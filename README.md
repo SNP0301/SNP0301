@@ -12,3 +12,4 @@
 
 Email : [studiosnp0301@gmail.com](studiosnp0301@gmail.com)
 
+Feel free to contact me for Korean translation, and share any idea about my repositories :)
