@@ -13,3 +13,10 @@
 Email : [studiosnp0301@gmail.com](studiosnp0301@gmail.com)
 
 Feel free to contact me for Korean translation, and to share any idea about my repositories :)
+
+  
+-----
+## Contributions
+### Translations
+- [Ethereum.org Documentation](https://ethereum.org/en/contributing/translation-program/contributors/) - as Seung_Gi_Kim
+- [p5.js[(https://github.com/processing/p5.js/blob/main/README.md) - as Seung-Gi Kim (David)
